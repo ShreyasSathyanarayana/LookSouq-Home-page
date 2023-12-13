@@ -1,0 +1,91 @@
+.footer{
+    width: 100%;
+    height: 40vh;
+    background-image: url("../images/Rectangle\ 2_522_3234.png"),url("../images/Support\ Solution\ Bg_530_4527.png");
+    background-blend-mode:lighten;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 3% 8%;
+    display: flex;
+}
+
+.footer1 ul{
+    list-style-type: none;
+    font-size: 0.6rem;
+    padding-left: 0px;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+.footer1{
+    width: 20%;
+    display: inline-block;
+}
+
+.footer2 ul{
+    list-style-type: none;
+    font-size: 0.6rem;
+    padding-left: 0px;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+.footer2{
+    width: 20%;
+    display: inline-block;
+
+}
+
+.footer3{
+    border-left: 2px solid silver;
+    height: 100%;
+    margin-left: 5%;
+}
+
+.footer4 ul{
+    list-style-type: none;
+    font-size: 0.6rem;
+    padding-left: 0px;
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+.footer4{
+    width: 20%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.footer4 p{
+    font-size: 0.6rem;
+    font-weight: bold;
+}
+
+.social-media-icons{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: 20%;
+    margin-top: 0px;
+    
+}
+
+
+.social-media-icons img{
+    width: 60%;
+    margin-right: 45%;
+    
+}
+.footer5{
+    width: 20%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.footer5 img{
+    width: 80%;
+    margin-top: 8%;
+}

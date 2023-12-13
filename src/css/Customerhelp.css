@@ -1,0 +1,38 @@
+.customerhelp{
+    padding: 5% 8%;
+}
+
+.customer-container{
+    text-align: center;
+    padding: 5% 0%;
+}
+
+.customer-images{
+    display: grid;
+    grid-template-columns: 15% 15% 15% 50%;
+    column-gap: 2%;
+    margin-top: 5%;
+    padding: 0 2%;
+    width: 100%;
+    padding-left: 15%;
+}
+
+.customer-images img{
+  width: 80%;
+  height: 80%;
+}
+
+.four{
+    background-color: rgb(237, 235, 235);
+    display: flex;
+    justify-content: end;
+    padding: 5%;
+    padding-left: 20%;
+    height: 70%;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.customer-container p{
+    font-size: 0.8rem;
+}

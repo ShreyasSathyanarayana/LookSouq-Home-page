@@ -1,0 +1,25 @@
+.whyneed{
+    width: 100%;
+    padding: 3%;
+    background-image: url("../images/Rectangle\ 2_522_3234.png");
+    background-size: cover;
+    text-align: center;
+}
+
+.paid-btn{
+    border: none;
+    background-color: rgb(247, 230, 200);
+    padding: 0.5% 3%;
+    border-radius: 25px;
+    font-weight: 600;
+}
+
+.whyneed h2{
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.whyneed h3{
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
