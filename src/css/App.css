@@ -12,7 +12,6 @@
 }
 
 .navbar{
-    position: fixed;
     top: 1%;
     color: white;
     display: flex;
